@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a student working towards a Bachilors in Science degreen in Mechanical Engineering at Brigham Young University, and I am a part of the [Vertical Cloud Lab @ BYU](https://github.com/vertical-cloud-lab), an autonomous research laboratory for alloys and electrochemistry.
+
+As a future engineer, I hope to contribute to projects that bring people together. The world is a wonderful place to live, and as an engineer I want to make it an even better place to live. I believe the most important thing to societal progress is greater human connection (in quantity and quality). I firmly believe that what we believe and say about ourselves becomes our reality. As an engineer I want to help others recognize their worth and potential. Our potential is only limited by our vision, and mine is set on the stars. Every small step we can take to making the world a better place will be worth it all in the end. 
+- 🔭 I’m currently working on a mini mars rover tasked with completing an obstacle course ([Artemis Robot](https://github.com/UltimitWinner/ArtemisRobot))
+- 🌱 I’m currently learning how to collaborate in large scale projects
+- 📫 How to reach me: bwhit05@byu.edu
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I dance ballroom in my spare time
